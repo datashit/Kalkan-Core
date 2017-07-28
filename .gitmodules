@@ -1,0 +1,3 @@
+[submodule "Kalkan-Core-DevKit/uGFX"]
+	path = Kalkan-Core-DevKit/uGFX
+	url = https://git.ugfx.io/uGFX/uGFX.git
